@@ -16,4 +16,9 @@ I'm an engineer-turned fullstack developer who is passionate about making techno
 
 
 #### Recent Articles on Dev.to and Medium
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Black Hole Imaging & Katie Bouman](https://medium.com/@haleydemosother/black-hole-imaging-katie-bouman-da5f0db5e90f?source=rss-8737b994f63c------2)
+- [Model-View-Controller (MVC) Explained with Food, Because Food is Delicious](https://medium.com/@haleydemosother/model-view-controller-mvc-explained-with-food-because-food-is-delicious-42923b9d7252?source=rss-8737b994f63c------2)
+- [Realizations: Life After College](https://medium.com/@haleydemosother/realizations-life-after-college-dec4fbb8f119?source=rss-8737b994f63c------2)
+- [Trick to Fixing Greyed Out iPhone Settings X/XR/XS](https://medium.com/@haleydemosother/trick-to-fixing-greyed-out-iphone-settings-x-xr-xs-88f8ee312737?source=rss-8737b994f63c------2)
+<!-- BLOG-POST-LIST:END -->
