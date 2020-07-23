@@ -14,3 +14,4 @@ I'm an engineer-turned fullstack developer who is passionate about making techno
 - 📫 How to reach me: Twitter @haleydemos IG @codingwithoutgluten
 - ⚡ Fun fact: I have a single on spotify that I wrote, sang and mixed (with the help of my other half Bhloom).
 
+![octocat](octocat-sm.png)
