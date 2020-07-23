@@ -10,7 +10,6 @@ I'm a fullstack developer who is passionate about making technology more accessa
 - 🔭 I’m currently working on a platform to learn about achievements by underrepresented groups in tech.
 - 🌱 I’m currently learning React & Redux.
 - 👯 I’m looking to collaborate on any projects related to music or helping women/BIPOC.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything tech related, my spotify single, my pup Nala, yoga :yoga: or animal crossing (and other games). 
 - 📫 How to reach me: Twitter @haleydemos IG @codingwithoutgluten
 - ⚡ Fun fact: I have a single on spotify that I wrote, sang and mixed (with the help of my other half Bhloom).
