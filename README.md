@@ -1,4 +1,4 @@
-### Hi there, I'm Haley 👋 :woman_technologist:
+## Hi there, I'm Haley 👋 :woman_technologist:
 
 <!--
 **hdemos/hdemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -10,9 +10,10 @@ I'm an engineer-turned fullstack developer who is passionate about making techno
 - 🔭 I’m currently working on a platform to connect & promote underrepresented people in STEAM fields ( Twitter: @discovHERStory).
 - 🌱 I’m currently learning React & Redux.
 - 👯 I’m looking to collaborate on any projects related to music or helping women/BIPOC.
-- 💬 Ask me about anything tech related, my spotify single, my pup Nala, yoga :yoga: or animal crossing (and other games). 
+- 💬 Ask me about anything tech related, my spotify single, my pup Nala :dog:, yoga  or animal crossing (and other games). 
 - 📫 How to reach me: Twitter @haleydemos IG @codingwithoutgluten
 - ⚡ Fun fact: I have a single on spotify that I wrote, sang and mixed (with the help of my other half Bhloom).
 
 
+#### Recent Articles on Dev.to and Medium
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
