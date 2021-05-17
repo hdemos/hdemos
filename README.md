@@ -8,6 +8,7 @@ I'm an engineer-turned fullstack developer who is passionate about making techno
 - 😄 Pronouns: She/Her
 - :computer: Languages I use most often: Java, Go, JS & React
 - 🔭 I’m currently working on a platform to connect & promote underrepresented people in STEAM fields ( Twitter: @discovHERStory).
+- 🐕 I have a dog shop called DogsDontBYTE and you can find me on IG @DogsDontByte or Etsy! 
 - 🌱 I’m currently learning React & Redux.
 - 👯 I’m looking to collaborate on any projects related to music or helping women/BIPOC.
 - 💬 Ask me about anything tech related, my spotify single, my pup Nala :dog:, yoga  or animal crossing (and other games). 
